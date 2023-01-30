@@ -7,7 +7,7 @@ My name is Albert Rise Nielsen, i'm studying at the [IT University of Copenhagen
 
 - :book: My highest, finished, education is a **"gymnasial" (Upper seconday education) in mathemathics and programming**.
 - :telescope: I'm studying **Software Development**
-- :hourglass: I'm currently on my **5th semester of the bachelor**
+- :hourglass: I'm currently on my **6th semester of the bachelor**
 - :calendar: Current courses are **Reflections on IT, Algorithmic Problem Solving, and my Bachelor thesis**
 - :space_invader: My current interests are **Security, DevOps, database design and distributed systems**
 - :seedling: I work in the food industry, redesigning the food system. See more at the awesome [Dagens](https://dagens.farm)
