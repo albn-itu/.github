@@ -8,7 +8,7 @@ My name is Albert Rise Nielsen, i'm studying at the [IT University of Copenhagen
 - :book: My highest, finished, education is a **"gymnasial" (Upper seconday education) in mathemathics and programming**.
 - :telescope: I'm studying **Software Development**
 - :hourglass: I'm currently on my **5th semester of the bachelor**
-- :calendar: Current courses are **Operating Systems and C, Programs as Data, Security, and Digital Transformation and Business models**
+- :calendar: Current courses are **Reflections on IT, Algorithmic Problem Solving, and my Bachelor thesis**
 - :space_invader: My current interests are **Security, DevOps, database design and distributed systems**
 - :seedling: I work in the food industry, redesigning the food system. See more at the awesome [Dagens](https://dagens.farm)
 - :bicyclist: Outside of work and the university i love cycling, electric cars and gaming
@@ -52,6 +52,8 @@ These codes are not official.
 | BSEC1  | 2022 | 5        | Security 1 |
 | BDTF   | 2022 | 5        | Digital transformation og forretningsmodeller |
 | BPRD   | 2022 | 5        | Programmer som data |
+| BAPS   | 2023 | 6        | Algorithmic Problem Solving |
+| REFIT  | 2023 | 6        | Reflections on IT |
 
 #### Even more work 
 Most of the projects here have been worked on with multiple other people. The collaborators are all invited and listed on the repository. 
