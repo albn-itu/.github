@@ -54,10 +54,10 @@ These codes are not official.
 | BPRD   | 2022 | 5        | Programmer som data |
 | BAPS   | 2023 | 6        | Algorithmic Problem Solving |
 | REFIT  | 2023 | 6        | Reflections on IT |
-| AP     | 2023 | 1        | Advanced Programming |
-| ALGO2  | 2023 | 1        | Algorithm Design |
-| ML     | 2023 | 1        | Introduction to Machine Learning |
-| PCPP   | 2023 | 1        | Practical Concurrent and Parallel Programming |
+| AP     | 2023 | 7        | Advanced Programming |
+| ALGO2  | 2023 | 7        | Algorithm Design |
+| ML     | 2023 | 7        | Introduction to Machine Learning |
+| PCPP   | 2023 | 7        | Practical Concurrent and Parallel Programming |
 
 #### Even more work 
 Most of the projects here have been worked on with multiple other people. The collaborators are all invited and listed on the repository. 
